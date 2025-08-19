@@ -1,0 +1,11 @@
+1. Immutable Objects -> Once created can not be changed
+    int
+    float
+    string(str)
+    bool
+    Tuple
+
+2. Mutable Objects -> can be changed
+    List
+    Set
+    Dictionary
