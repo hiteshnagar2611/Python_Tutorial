@@ -1,4 +1,4 @@
-# gives True or False
+# gives True or False or boolean value
 
 a = 5
 b = 10 
