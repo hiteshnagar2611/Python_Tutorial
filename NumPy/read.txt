@@ -1,0 +1,4 @@
+Advantages of NumPy Arrays
+
+1. allows several mathematical operations
+2. faster operations
