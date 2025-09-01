@@ -58,7 +58,6 @@ The key library for this function is `sklearn.model_selection`, from which the `
    ```python
    import pandas as pd
    data = pd.read_csv("diabetes.csv")
-````
 
 2. **Feature and Target Separation:**
    The dataset is divided into **features** (independent variables, denoted as `X`) and the **target** (dependent variable, denoted as `y`).
@@ -115,11 +114,9 @@ The test data acts as a fresh set of examples, offering a more accurate assessme
 
 The performance on the test set guides decisions about which model to choose and how to fine-tune its parameters.
 
----
 
 ## Conclusion
 
 The **train-test split** is an essential step in the machine learning workflow. It ensures that a model is tested on unseen data, helping to prevent overfitting and providing a more accurate evaluation of its performance. By splitting the data into training and testing subsets, it facilitates the development of robust models that generalize well to real-world data.
 
-```
 
