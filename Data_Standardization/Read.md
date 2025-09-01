@@ -1,4 +1,4 @@
-````markdown
+
 # Detailed Briefing Document: Data Standardization in Machine Learning
 
 This document provides a detailed briefing on **data standardization**, a crucial data pre-processing technique in machine learning, based on the provided source material.
